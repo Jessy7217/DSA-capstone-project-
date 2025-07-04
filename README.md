@@ -1,1 +1,1 @@
-# DSA-capstone-project. i am sorry i am unable to complete my project before the deadline. this is because the excel on my laptop keeps shutting down making me start all over again since last week and i am currently preparing for a school examination. 
+# DSA-capstone-project. i am sorry i am unable to complete my project before the deadline. this is because the excel on my laptop keeps shutting down making me start all over again since last week, i had started all over again for the 6th time. and now i am currently preparing for a school examination. 
